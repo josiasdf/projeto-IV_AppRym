@@ -11,6 +11,7 @@ Backend (Em progresso): Desenvolvimento da infraestrutura de servidores e banco 
 <img width="375" height="413" alt="image" src="https://github.com/user-attachments/assets/6fd48aac-50ad-4828-b8e2-33d7a74b1179" />
 <img width="393" height="419" alt="image" src="https://github.com/user-attachments/assets/83e907f5-bd64-4863-9ea9-92a165d9a641" />
 
+
 4. Fundamentação e Tecnologias
 Metodologia de UX: Baseada em Preece (2013).
 
@@ -40,3 +41,4 @@ Inicie o projeto: npx expo start
 
 Status: 🚧 Em etapa final de desenvolvimento (Último Semestre de ADS).
 Desenvolvido por: Josias.
+
