@@ -1,35 +1,42 @@
- # RYM - Rescue Your Mind 🧠📱
+RYM - Rescue Your Mind 🧠📱
+1. Sobre o Projeto (Fase Final de Desenvolvimento)
+O RYM (Rescue Your Mind) é o projeto de conclusão do curso de Análise e Desenvolvimento de Sistemas (ADS). Atualmente, o projeto encontra-se em sua etapa final, focada na implementação da arquitetura de Backend para suporte, segurança e persistência de dados.
 
-## 1. Sobre o Projeto
-O **RYM (Rescue Your Mind)** é um aplicativo móvel desenvolvido como Projeto Integrador no curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Ele foca no monitoramento da saúde mental, permitindo que o usuário registre emoções e acompanhe seu bem-estar através de uma interface intuitiva e segura.
+2. Status do Projeto
+Frontend (Concluído & Validado): Interface desenvolvida em React Native e TypeScript.
 
-## 2. Fundamentação e Tecnologias
-O projeto foi estruturado com foco em boas práticas de engenharia de software e usabilidade:
+Backend (Em progresso): Desenvolvimento da infraestrutura de servidores e banco de dados sob as normas da LGPD.
 
-* **Metodologia de UX:** Baseada em Preece (2013) e na "Regra dos 10 Minutos".
-* **Ambiente de Desenvolvimento:** VS Code e Android Studio (Emulator).
-* **Framework:** React Native com Expo.
-* **Linguagens:** TypeScript e JavaScript.
-* **Estilização:** CSS.
-* **Ambiente de Execução:** Node.js.
-
-## 3. Demonstração
- 
+3. Demonstração Visual
 <img width="375" height="413" alt="image" src="https://github.com/user-attachments/assets/6fd48aac-50ad-4828-b8e2-33d7a74b1179" />
 <img width="393" height="419" alt="image" src="https://github.com/user-attachments/assets/83e907f5-bd64-4863-9ea9-92a165d9a641" />
 
+4. Fundamentação e Tecnologias
+Metodologia de UX: Baseada em Preece (2013).
 
-## 4. Validação Acadêmica
-O protótipo foi testado com **30 estudantes** da Faculdade CCI (Psicologia e Enfermagem), seguindo as diretrizes da **LGPD**:
-* **93%** entenderam a finalidade de imediato.
-* **99%** aprovaram o design e a clareza visual.
-* **90%** consideraram a navegação altamente intuitiva.
+Ambiente: VS Code e Android Studio.
 
-## 5. Como Executar o Projeto
-1. Certifique-se de ter o **Node.js** e o **Expo CLI** instalados.
-2. Clone o repositório: `git clone https://github.com/SEU-USUARIO/rym.git`
-3. Instale as dependências: `npm install`
-4. Inicie o projeto: `npx expo start`
+Stack: React Native (Expo), TypeScript e Node.js.
 
----
-**Desenvolvido por:** Josias e equipe de ADS.
+Próxima Etapa: Integração de API Rest e Banco de Dados.
+
+5. Validação Acadêmica (Resultados do Protótipo)
+O sistema foi testado com 30 estudantes da Faculdade CCI (Psicologia e Enfermagem):
+
+93% de percepção positiva imediata.
+
+99% de aprovação no design e clareza visual.
+
+90% de êxito na navegação intuitiva.
+
+6. Como Executar o Projeto (Frontend)
+Certifique-se de ter o Node.js e o Expo CLI instalados.
+
+Clone o repositório: git clone https://github.com/SEU-USUARIO/rym.git
+
+Instale as dependências: npm install
+
+Inicie o projeto: npx expo start
+
+Status: 🚧 Em etapa final de desenvolvimento (Último Semestre de ADS).
+Desenvolvido por: Josias.
