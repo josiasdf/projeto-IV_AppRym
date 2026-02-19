@@ -11,8 +11,8 @@ Backend (Em progresso): Desenvolvimento da infraestrutura de servidores e banco 
 
 3. Demonstração Visual
    
-<img width="375" height="413" alt="image" src="https://github.com/user-attachments/assets/6fd48aac-50ad-4828-b8e2-33d7a74b1179" />
-<img width="393" height="419" alt="image" src="https://github.com/user-attachments/assets/83e907f5-bd64-4863-9ea9-92a165d9a641" />
+<img width="375" height="413" alt="Tela de registro de emoções do RYM" src="https://github.com/user-attachments/assets/6fd48aac-50ad-4828-b8e2-33d7a74b1179" />
+<img width="387" height="413" alt="Dashboard de acompanhamento do bem-estar" src="https://github.com/user-attachments/assets/83e907f5-bd64-4863-9ea9-92a165d9a641" />
 
 
 5. Fundamentação e Tecnologias
@@ -47,5 +47,6 @@ Inicie o projeto: npx expo start
 
 Status: 🚧 Em etapa final de desenvolvimento (Último Semestre de ADS).
 Desenvolvido por: Josias.
+
 
 
